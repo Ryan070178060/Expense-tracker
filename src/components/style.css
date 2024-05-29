@@ -112,24 +112,24 @@ body {
   .nav-links {
       flex-direction:row;
       width: 80%;
-      margin-left: 0px;
-      padding-left: 0px;
-      margin-right: 12px;
-      padding-right: 6px;
+      margin-left: 5px;
+      padding-left: 5px;
+      margin-right: 4px;
+      padding-right: 4px;
       gap: 15px;
   }
 
   .nav-links li {
       margin-right: 0;
-      width: 80%;
-      gap:3px;
+      width: 100%;
+      gap:10px;
   }
 
   .nav-links a {
       width: 100%;
       padding: 0rem;
       text-align: left;
-      gap: 5px;
+      gap: 7px;
   }
 
   .buttons {
@@ -160,18 +160,18 @@ body {
   }
   .nav-links li {
     margin-right: 0;
-    width: 20%;
-    margin-right: 2px;
-    padding-right: 2px;
-    gap:3px;
+    width: 80%;
+    margin-right: 4px;
+    padding-right: 4px;
+    gap:7px;
 }
 
 
   .nav-links li a {
       margin-left: 0;
       width: 100%;
-      margin-left: 0px;
-      padding-left: 0px;
+      margin-left: 2px;
+      padding-left: 2px;
      
       
   }
