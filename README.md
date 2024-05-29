@@ -1,50 +1,16 @@
-[![Node.js CI](https://github.com/Syipmong/expense-tracker/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/Syipmong/expense-tracker/actions/workflows/node.js.yml)   [![CodeQL](https://github.com/Syipmong/expense-tracker/actions/workflows/codeql.yml/badge.svg)](https://github.com/Syipmong/expense-tracker/actions/workflows/codeql.yml)
 
-
-# Expense Tracker
-
-This is an open source project for tracking expenses.
-
-## Live Test Website
-
-Visit the live test website [here](https://expense-tracker-static.web.app/).
-
-
-
-## Contributing
-
-We welcome contributions to this project! Here are some ways you can get involved:
-
-- **Report bugs or suggest improvements:** If you find a bug or have an idea for how to improve the project, please create an issue on GitHub.
-- **Fix bugs:** We are always looking for help fixing bugs. If you see an issue you can fix, please fork the repository, make your changes, and submit a pull request.
-- **Add new features:** We are also open to new features. If you have an idea for a new feature, please create an issue on GitHub and discuss it with the team.
 
 ## Getting Started
 
 To get started contributing to this project, you will need to clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/Syipmong/expense-tracker
 cd expense-tracker
-yarn install
+npm install
 ```
-Use code with caution. [Learn more.]('README.md')
+
 
 Once you have installed the dependencies, you can start making changes to the code.
-
-## Submitting Pull Requests
-
-Once you have made your changes, please commit them to your local repository and submit a pull request.
-
-Here are some guidelines for submitting pull requests:
-
-- Make sure your changes are well-formatted and documented.
-- Test your changes thoroughly before submitting your pull request.
-- Squash your commits into a single commit before submitting your pull request.
-- Include a clear and concise description of your changes in the pull request description.
-
-We will review your pull request and provide feedback as soon as possible.
-
 
 ## Component Descriptions
 
