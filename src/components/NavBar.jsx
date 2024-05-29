@@ -15,8 +15,8 @@ const Navbar = () => {
         </li>
         <li>
           <NavLink to="/dashboard">
-            <i className="fas fa-tachometer-alt"></i>
-            <span> Dashboard</span>
+            <i className=""></i>
+            <span></span>
           </NavLink>
         </li>
         <li>
