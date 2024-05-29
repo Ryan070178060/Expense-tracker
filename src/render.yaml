@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: your-app-name
+    name: budgetee
     env: static
     staticPublishPath: build
     buildCommand: npm run build
